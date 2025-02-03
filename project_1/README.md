@@ -47,9 +47,9 @@
 | Criteria (Weight)          | Above 80% (High Distinction)                        | 70–80% (Distinction)                     | 60–69% (Merit)                      | 50–59% (Pass)                     | Below 50% (Fail)               |
 |----------------------------|-----------------------------------------------------|------------------------------------------|--------------------------------------|------------------------------------|--------------------------------|
 | **Content (45%)**          | Logical flow, engaging narrative.                  | Clear structure, natural transitions.    | Redundant details or awkward flow.   | Disorganized or repetitive.        | Chaotic structure.             |
-| **Delivery (35%)**         | Confident, answers deeply, guides discussion.      | Clear explanations, accurate answers.    | Occasional hesitations/errors.       | Relies on notes, vague answers.    | Incoherent, high error rate.   |
+| **Delivery (30%)**         | Confident, answers deeply, guides discussion.      | Clear explanations, accurate answers.    | Occasional hesitations/errors.       | Relies on notes, vague answers.    | Incoherent, high error rate.   |
 | **Time Management (10%)**  | Perfect timing, balanced pacing.                   | Slightly over/under time.                | Uneven pacing.                       | Significant overtime/rushed.       | Severe overtime/incomplete.    |
-| **Interaction (10%)**      | Proactive engagement, incorporates feedback.       | Clear responses to questions.            | Limited depth in answers.            | Superficial/passive interaction.   | Fails to address questions.    |
+| **Interaction (15%)**      | Proactive engagement, incorporates feedback.       | Clear responses to questions.            | Limited depth in answers.            | Superficial/passive interaction.   | Fails to address questions.    |
 
 
 
